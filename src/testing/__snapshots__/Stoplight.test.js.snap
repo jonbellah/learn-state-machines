@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stoplight: green 1`] = `
+<div>
+  Green
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Next Light
+  </button>
+</div>
+`;
+
+exports[`Stoplight: red 1`] = `
+<div>
+  Red
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Next Light
+  </button>
+</div>
+`;
+
+exports[`Stoplight: yellow 1`] = `
+<div>
+  Yellow
+  <button
+    onClick={[Function]}
+    type="button"
+  >
+    Next Light
+  </button>
+</div>
+`;
