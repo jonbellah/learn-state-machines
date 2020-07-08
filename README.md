@@ -1,4 +1,4 @@
-[![Learn State Machines](https://learnstatemachines.com/share.png)](https://learnstatemachines.com)
+[![Learn State Machines](https://jsfoundry.dev/images/courses/lsm.jpg)](https://jsfoundry.dev)
 
 # Learn State Machines - LearnStateMachines.com
 
