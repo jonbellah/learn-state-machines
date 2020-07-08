@@ -1,6 +1,6 @@
 [![Learn State Machines](https://jsfoundry.dev/images/courses/lsm.jpg)](https://jsfoundry.dev)
 
-# Learn State Machines - LearnStateMachines.com
+# Learn State Machines
 
 Starter files for the Learn State Machines course. 
 
